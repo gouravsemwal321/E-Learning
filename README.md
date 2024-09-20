@@ -27,7 +27,6 @@ Images:
 ![How dark](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/workdark.PNG)
 ![Testimonial](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/testimonials.PNG)
 ![Testimonial dark](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/testimonialsdark.PNG)
-![Team](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/team.PNG)
 ![Team dark](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/teamdark.PNG)
 ![Faq](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/faq.PNG)
 ![Faq dark](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/faqdark.PNG)
